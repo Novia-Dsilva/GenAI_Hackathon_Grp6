@@ -1,8 +1,8 @@
-# GenAI_Hackathon_Grp6
+# GenAI_Hackathon_Grp5
 
 # World Cup Match Predictor and Analyst Chatbot
 
-**Group 6 | Track 1 | World Cup GenAI Hackathon**
+**Group 5 | Track 1 | World Cup GenAI Hackathon**
 **Team:** Novia Dsilva, Sushmitha Sudharsan, Tanmayi Shurpali
 
 ---
